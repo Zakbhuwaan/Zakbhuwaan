@@ -1,42 +1,73 @@
-<h1 align="center">Hi, I'm Zaheer Khan</h1>
-<h3 align="center">Junior Fullstack Developer @ Capgemini | .NET · Angular · MongoDB · Azure</h3>
+<!-- Banner: wave header, auto light/dark -->
+<div align="center">
 
-- 💼 Building enterprise microservices, adapters, and APIs on **.NET 8/10** and **Angular**
-- ☁️ Working across **Azure (AKS, Service Bus, App Services)**, **MongoDB**, **SQL Server**, and **Apigee**
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning — still curious about ML on the side
-- 📜 MongoDB Certified SI Architect & Associate, Microsoft Azure AI-900
-- 💬 Ask me about **.NET, microservices, MongoDB, or Azure DevOps/CI-CD**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:2563eb&text=Zaheer%20Khan&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Zaheer Khan banner" width="100%"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zak_robloxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zak_robloxer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zaheer-khan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaheer-khan77" height="30" width="40" /></a>
-<a href="https://instagram.com/justeenotherguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justeenotherguy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@justeenotherguy13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="justeenotherguy13" height="30" width="40" /></a>
-<a href="https://discord.gg/proffessr_zak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="proffessr_zak" height="30" width="40" /></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=2563EB&center=true&vCenter=true&width=640&lines=Enterprise+platforms+for+Fortune+500+scale;Energy+%26+oil+%26+gas+grade+reliability;AI-augmented+engineering%2C+shipped+to+production;From+prototype+to+Kubernetes+in+one+pipeline" alt="Typing intro" />
+</a>
 
-<h3 align="left">Backend & .NET:</h3>
-<p align="left">
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="aspnet" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-plain.svg" alt="efcore" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/azure-devops-2019.svg" alt="azuredevops" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/nuget/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg" alt="nuget" width="40" height="40"/> </a>
-</p>
+</div>
 
-<h3 align="left">Frontend & Other Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakbhuwaan&show_icons=true&locale=en&layout=compact" alt="zakbhuwaan" /></p>
+## ⚡ What I do
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakbhuwaan&show_icons=true&locale=en" alt="zakbhuwaan" /></p>
+I build **cloud-native systems for some of the world's largest organisations**, and use **AI as a force-multiplier across the whole delivery cycle**: design, code, review, test, ship.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakbhuwaan&" alt="zakbhuwaan" /></p>
+| | |
+|---|---|
+| 🏢 **Enterprise scale** | Microservices, integration adapters and APIs serving a **Fortune 500 energy major** across the oil & gas value chain |
+| 🤖 **AI-enabled development** | Agentic workflows (Claude Code, MCP, LLM pipelines) that compress weeks of delivery into days, with humans owning the architecture |
+| ☁️ **Cloud & platform** | Event-driven design on Kubernetes and managed cloud, with CI/CD and API gateways in front |
+| 🎓 **Foundation** | B.Tech in AI & Machine Learning; ML-for-finance research on the side |
+
+<br/>
+
+## 🧭 Currently
+
+- 🔭 Building **AI-native products**: LLM-backed tooling, automation platforms, multi-tenant SaaS
+- 🧪 Exploring **agent orchestration**, retrieval pipelines and evaluation harnesses
+- 📈 Researching **sentiment-driven market prediction** (FinBERT + LSTM)
+
+<br/>
+
+## 🛠️ Toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,py,mongodb,mssql,redis,rabbitmq,azure,kubernetes,docker,tensorflow,github&perline=14" alt="Tech stack" />
+
+</div>
+
+<sub>**Backend** C# · .NET 8/10 · REST/gRPC &nbsp;|&nbsp; **Frontend** Angular · TypeScript &nbsp;|&nbsp; **Data** MongoDB · SQL Server · Redis &nbsp;|&nbsp; **Messaging** Service Bus · RabbitMQ &nbsp;|&nbsp; **Cloud** Azure · AKS · Apigee · CI/CD &nbsp;|&nbsp; **AI** LLM APIs · Agents · TensorFlow · scikit-learn</sub>
+
+<br/>
+
+## 🏅 Credentials
+
+![MongoDB SI Architect](https://img.shields.io/badge/MongoDB-Certified_SI_Architect-00684A?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB Associate](https://img.shields.io/badge/MongoDB-Certified_Associate-00684A?style=flat-square&logo=mongodb&logoColor=white)
+![Azure AI-900](https://img.shields.io/badge/Microsoft-Azure_AI--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+<br/>
+
+## 📂 Featured work
+
+| Project | What it is |
+|---|---|
+| [**FinBERT-LSTM**](https://github.com/Zakbhuwaan/FinBERT-LSTM) | Deep-learning stock prediction fusing news sentiment with price history |
+| [**Portfolio**](https://github.com/Zakbhuwaan/zaheer-portfolio) | Personal site, the long-form version of this page |
+| 🔒 *Multi-tenant commerce platform, AI resume/job tooling, urban-redevelopment feasibility automation* | Private. Walkthroughs on request |
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaheer-khan77)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Zakbhuwaan/zaheer-portfolio)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@justeenotherguy13)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2563eb,100:0f172a&section=footer" width="100%" alt=""/>
+
+</div>
