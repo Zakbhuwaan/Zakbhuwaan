@@ -11,28 +11,28 @@
 
 <br/>
 
-## ⚡ What I do
+## What I do
 
 I build **cloud-native systems for some of the world's largest organisations**, and use **AI as a force-multiplier across the whole delivery cycle**: design, code, review, test, ship.
 
 | | |
 |---|---|
-| 🏢 **Enterprise scale** | Microservices, integration adapters and APIs serving a **Fortune 500 energy major** across the oil & gas value chain |
-| 🤖 **AI-enabled development** | Agentic workflows (Claude Code, MCP, LLM pipelines) that compress weeks of delivery into days, with humans owning the architecture |
-| ☁️ **Cloud & platform** | Event-driven design on Kubernetes and managed cloud, with CI/CD and API gateways in front |
-| 🎓 **Foundation** | B.Tech in AI & Machine Learning; ML-for-finance research on the side |
+| **Enterprise scale** | Microservices, integration adapters and APIs serving a **Fortune 500 energy major** across the oil & gas value chain |
+| **AI-enabled development** | Agentic workflows (Claude Code, MCP, LLM pipelines) that compress weeks of delivery into days, with humans owning the architecture |
+| **Cloud & platform** | Event-driven design on Kubernetes and managed cloud, with CI/CD and API gateways in front |
+| **Foundation** | B.Tech in AI & Machine Learning; ML-for-finance research on the side |
 
 <br/>
 
-## 🧭 Currently
+## Currently
 
-- 🔭 Building **AI-native products**: LLM-backed tooling, automation platforms, multi-tenant SaaS
-- 🧪 Exploring **agent orchestration**, retrieval pipelines and evaluation harnesses
-- 📈 Researching **sentiment-driven market prediction** (FinBERT + LSTM)
+- Building **AI-native products**: LLM-backed tooling, automation platforms, multi-tenant SaaS
+- Exploring **agent orchestration**, retrieval pipelines and evaluation harnesses
+- Researching **sentiment-driven market prediction** (FinBERT + LSTM)
 
 <br/>
 
-## 🛠️ Toolkit
+## Toolkit
 
 <div align="center">
 
@@ -44,7 +44,7 @@ I build **cloud-native systems for some of the world's largest organisations**, 
 
 <br/>
 
-## 🏅 Credentials
+## Credentials
 
 ![MongoDB SI Architect](https://img.shields.io/badge/MongoDB-Certified_SI_Architect-00684A?style=flat-square&logo=mongodb&logoColor=white)
 ![MongoDB Associate](https://img.shields.io/badge/MongoDB-Certified_Associate-00684A?style=flat-square&logo=mongodb&logoColor=white)
@@ -52,13 +52,13 @@ I build **cloud-native systems for some of the world's largest organisations**, 
 
 <br/>
 
-## 📂 Featured work
+## Featured work
 
 | Project | What it is |
 |---|---|
 | [**FinBERT-LSTM**](https://github.com/Zakbhuwaan/FinBERT-LSTM) | Deep-learning stock prediction fusing news sentiment with price history |
 | [**Portfolio**](https://github.com/Zakbhuwaan/zaheer-portfolio) | Personal site, the long-form version of this page |
-| 🔒 *Multi-tenant commerce platform, AI resume/job tooling, urban-redevelopment feasibility automation* | Private. Walkthroughs on request |
+| *Multi-tenant commerce platform, AI resume/job tooling, urban-redevelopment feasibility automation* | Private. Walkthroughs on request |
 
 <br/>
 
