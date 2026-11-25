@@ -17,14 +17,30 @@
 
 ## What I do
 
-Cloud-native engineering for some of the world's largest organisations, with **AI as a force-multiplier across the whole delivery cycle**: design, code, review, test, ship.
+Cloud-native engineering for some of the world's largest organisations, with AI as a force-multiplier across the whole delivery cycle:
 
-| | |
-|---|---|
-| **Enterprise scale** | Microservices, integration adapters and APIs serving a **Fortune 500 energy major** across the oil & gas value chain |
-| **AI-enabled development** | Agentic workflows (Claude Code, MCP, LLM pipelines) that compress weeks of delivery into days, with humans owning the architecture |
-| **Cloud & platform** | Event-driven design on Kubernetes and managed cloud, with CI/CD and API gateways in front |
-| **Foundation** | B.Tech in AI & Machine Learning; ML-for-finance research on the side |
+<p align="center">
+  <code>&nbsp;DESIGN&nbsp;</code> &rarr; <code>&nbsp;CODE&nbsp;</code> &rarr; <code>&nbsp;REVIEW&nbsp;</code> &rarr; <code>&nbsp;TEST&nbsp;</code> &rarr; <code>&nbsp;SHIP&nbsp;</code>
+</p>
+
+<table>
+  <tr>
+    <td><b>Enterprise scale</b></td>
+    <td>Microservices, integration adapters and APIs serving a <b>Fortune 500 energy major</b> across the oil &amp; gas value chain</td>
+  </tr>
+  <tr>
+    <td><b>AI-enabled development</b></td>
+    <td>Agentic workflows (Claude Code, MCP, LLM pipelines) that compress weeks of delivery into days, with humans owning the architecture</td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; platform</b></td>
+    <td>Event-driven design on Kubernetes and managed cloud, with CI/CD and API gateways in front</td>
+  </tr>
+  <tr>
+    <td><b>Foundation</b></td>
+    <td>B.Tech in AI &amp; Machine Learning; ML-for-finance research on the side</td>
+  </tr>
+</table>
 
 <br/>
 
